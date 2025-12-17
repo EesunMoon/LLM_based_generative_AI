@@ -1,4 +1,4 @@
-# 📘 Course Context: COMS 6998 — LLM-based Generative AI (Fall 2025)
+# 📘 LLM-based Generative AI
 
 This repository was developed as HW for COMS 6998: LLM-based Generative AI at Columbia University.
 The course covered the foundations and advanced systems behind modern LLMs, including training, serving, personalization, tool use, and agentic workflows.
